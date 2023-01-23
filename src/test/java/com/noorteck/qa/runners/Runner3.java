@@ -14,6 +14,6 @@ import io.cucumber.junit.CucumberOptions;
 									"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 					monochrome = true
 						)
-public class Runner2 {
+public class Runner3 {
 
 }
