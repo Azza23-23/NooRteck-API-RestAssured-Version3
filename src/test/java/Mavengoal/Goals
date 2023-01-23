@@ -1,0 +1,5 @@
+@Maven Goal Single Tag: clean -Dtest=Runner test -Dcucumber.filter.tags="@GetAllExDeps"
+
+@Maven Goal Multiple Tags: clean -Dtest=Runner test -Dcucumber.filter.tags="@GetAllExDeps or @GetAllExDeps2"
+
+@Maven Goal Without Tag Runner Class: clean -Dtest=Runner test 
